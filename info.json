@@ -1,0 +1,11 @@
+
+{
+  "name": "NoCraft",
+  "version": "0.0.2",
+  "title": "No Craft Starter",
+  "author": "BlackOroogo",
+  "contact": "blackoroogo@gmail.com",
+  "homepage": "",
+  "description": "NoCraft challenge mod  - locks-out pocked-crafting",
+  "dependencies": ["base >= 0.12.0", "? bobassembly", "? bobmining"]
+}
